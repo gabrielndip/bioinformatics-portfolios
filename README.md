@@ -1,2 +1,2 @@
 # portfolios
-Portfolios Bioinformatics, Statistics, Data Science, and AI
+Project summaries and specific bioinformatics skills
